@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U0C3F" format="1">
+  <advance width="3"/>
+  <unicode hex="0C3F"/>
+  <outline>
+    <contour>
+      <point x="-351" y="368" type="qcurve" name="hr00"/>
+      <point x="-360" y="361"/>
+      <point x="-398" y="348"/>
+      <point x="-411" y="348" type="qcurve"/>
+      <point x="-442" y="348"/>
+      <point x="-499" y="382"/>
+      <point x="-499" y="417" type="qcurve"/>
+      <point x="-499" y="472"/>
+      <point x="-434" y="494" type="qcurve"/>
+      <point x="-406" y="504"/>
+      <point x="-338" y="493"/>
+      <point x="-313" y="477" type="qcurve"/>
+      <point x="-290" y="463"/>
+      <point x="-267" y="415"/>
+      <point x="-267" y="396" type="qcurve"/>
+      <point x="-268" y="337"/>
+      <point x="-324" y="312" type="qcurve"/>
+      <point x="-358" y="296"/>
+      <point x="-420" y="294"/>
+      <point x="-454" y="303" type="qcurve"/>
+      <point x="-480" y="309"/>
+      <point x="-525" y="331"/>
+      <point x="-525" y="343" type="qcurve"/>
+      <point x="-525" y="359"/>
+      <point x="-511" y="359" type="qcurve"/>
+      <point x="-507" y="359"/>
+      <point x="-469" y="342"/>
+      <point x="-447" y="334" type="qcurve"/>
+      <point x="-421" y="326"/>
+      <point x="-371" y="326"/>
+      <point x="-346" y="341" type="qcurve"/>
+      <point x="-330" y="348"/>
+      <point x="-311" y="376"/>
+      <point x="-311" y="396" type="qcurve"/>
+      <point x="-311" y="403"/>
+      <point x="-313" y="419"/>
+      <point x="-316" y="428" type="qcurve"/>
+      <point x="-319" y="415"/>
+      <point x="-328" y="386"/>
+    </contour>
+    <contour>
+      <point x="-411" y="433" type="qcurve"/>
+      <point x="-423" y="426"/>
+      <point x="-434" y="408"/>
+      <point x="-434" y="391"/>
+      <point x="-420" y="381"/>
+      <point x="-404" y="382" type="qcurve"/>
+      <point x="-382" y="389"/>
+      <point x="-363" y="429"/>
+      <point x="-365" y="442" type="qcurve"/>
+      <point x="-394" y="442"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="348" width="34" />
+      <vstem pos="-311" width="44" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

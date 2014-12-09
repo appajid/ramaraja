@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_0152" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="48" y="207" type="line"/>
+      <point x="83" y="200"/>
+      <point x="122" y="200" type="qcurve" name="hr01"/>
+      <point x="178" y="200" type="line"/>
+      <point x="196" y="200"/>
+      <point x="233" y="203"/>
+      <point x="252" y="207" type="qcurve" name="hr02"/>
+      <point x="252" y="155" type="line"/>
+      <point x="214" y="163"/>
+      <point x="178" y="163" type="qcurve" name="hr03"/>
+      <point x="122" y="163" type="line"/>
+      <point x="86" y="163"/>
+      <point x="48" y="155" type="qcurve" name="hr04"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="163" width="37" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="176" width="-21" />
+      <hstem pos="207" width="-20" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="163" width="37" />
+    </hintset>
+    <hintset pointTag="hr04">
+      <hstem pos="176" width="-21" />
+      <hstem pos="207" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

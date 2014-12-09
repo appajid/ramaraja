@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="246"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="46" y="176" type="qcurve"/>
+      <point x="84" y="178"/>
+      <point x="117" y="180" type="qcurve"/>
+      <point x="145" y="182"/>
+      <point x="197" y="183"/>
+      <point x="205" y="184" type="qcurve"/>
+      <point x="210" y="184"/>
+      <point x="210" y="178" type="qcurve"/>
+      <point x="210" y="170"/>
+      <point x="204" y="147"/>
+      <point x="200" y="139" type="qcurve"/>
+      <point x="188" y="138"/>
+      <point x="153" y="136"/>
+      <point x="110" y="134"/>
+      <point x="63" y="132"/>
+      <point x="41" y="131" type="qcurve" name="hr01"/>
+      <point x="36" y="131"/>
+      <point x="36" y="139" type="qcurve"/>
+      <point x="36" y="148"/>
+      <point x="43" y="168"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="184" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
